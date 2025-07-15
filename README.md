@@ -86,4 +86,7 @@ No open ports found on 127.0.0.1 in the range 1-100.
 - Unauthorized scanning of networks is illegal and unethical.
 - For best results, run the script with administrator/root privileges (some ports may require elevated permissions).
 
+- output page
+- <img width="783" height="161" alt="Image" src="https://github.com/user-attachments/assets/c6fc1bd7-273f-4ef1-a28a-1d29ef1e7e2e" />
+
 
